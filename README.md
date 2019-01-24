@@ -1,6 +1,6 @@
 # BeerJS: Campo Grande
 
-Evento de JavaScript em Campo Grande/MS que mistura um ambiente de descontração com altos papos sobre programação, mercado de trabalho, etc.
+Evento de JavaScript em Campo Grande/MS que mistura um ambiente de descontração com altos papos sobre programação, mercado de trabalho e etc.
 
 ## Onde nos encontramos?
 
@@ -19,7 +19,7 @@ Envie um Pull Request, uma Issue, or edit the Wiki.
 
 * Github é mais amigável para nós desenvolvedores.  
 * Menos spam.
-* Githube é gratuito!
+* Github é gratuito!
 
 ## A Comunidade
 
