@@ -2,6 +2,8 @@
 
 Evento de JavaScript em Campo Grande/MS que mistura um ambiente de descontração com altos papos sobre programação, mercado de trabalho e etc.
 
+![](beer.gif)
+
 ## Onde nos encontramos?
 
 Em breve teremos mais detalhes sobre os próximos eventos.
